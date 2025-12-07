@@ -98,31 +98,6 @@ It uses **advanced analytics**, **interactive visual dashboards**, and **time-se
 
 ---
 
-Retail-Sales-Analysis-Forecasting-System/
-│
-├── data/
-│ ├── raw_data.csv
-│ └── cleaned_data.csv
-│
-├── notebooks/
-│ ├── 01_EDA.ipynb
-│ ├── 02_Preprocessing.ipynb
-│ ├── 03_Forecasting_Models.ipynb
-│ └── 04_Dashboard_Insights.ipynb
-│
-├── models/
-│ ├── arima_model.pkl
-│ ├── sarima_model.pkl
-│ └── prophet_model.pkl
-│
-├── visuals/
-│ ├── sales_trend.png
-│ ├── heatmap.png
-│ └── category_sales.png
-│
-└── README.md
-
-
 ---
 
 ## 🧪 **How It Works**
